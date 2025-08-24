@@ -1,0 +1,10 @@
+# Core dependencies
+scikit-learn>=1.0.0
+scipy>=1.7.0
+networkx>=2.6.0
+requests>=2.25.0
+chardet>=4.0.0
+numpy>=1.21.0
+
+# Optional: Graph visualization
+# graphviz>=0.20.0  # Uncomment if you want DOT file visualization
